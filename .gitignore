@@ -1,4 +1,4 @@
-.env
+/.env
 data/*.db
 reports/*
 __pycache__/
