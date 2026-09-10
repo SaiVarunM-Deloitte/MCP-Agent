@@ -1,0 +1,14 @@
+[
+  {
+    "id": "TC001",
+    "name": "Example login test",
+    "url": "https://example.com",
+    "steps": [
+      "Open the website",
+      "Verify that the Example Domain heading is visible"
+    ],
+    "expected": [
+      "Example Domain heading should be displayed"
+    ]
+  }
+]
